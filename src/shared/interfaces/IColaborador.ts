@@ -3,4 +3,5 @@ export default interface colaborador{
     cargo: string,
     imagem: string
     time?: string
+    data: string
 }
